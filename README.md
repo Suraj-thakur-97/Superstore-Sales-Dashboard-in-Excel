@@ -5,4 +5,5 @@
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-6A1B9A?style=for-the-badge)
 # Superstore-Sales-Dashboard-in-Excel
 An interactive Excel dashboard analyzing sales, transactions, and customer trends. Includes KPIs, region/year filters, and visuals like shipping modes, monthly trends, and top cities. Built using Pivot Tables, slicers, and data visualization techniques.
-![Uploading Screenshot 2026-07-15 061633.png…]()
+<img width="1584" height="717" alt="Screenshot 2026-07-15 061633" src="https://github.com/user-attachments/assets/b18c0ebb-7afa-4bb3-b87f-5655f84d54b9" />
+
